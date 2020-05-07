@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049770180152",
+    "firebase_url": "https://thirdeye-e96e0.firebaseio.com",
+    "project_id": "thirdeye-e96e0",
+    "storage_bucket": "thirdeye-e96e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049770180152:android:b07e54587a9555a9acf0cd",
+        "android_client_info": {
+          "package_name": "com.example.thirdeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049770180152-vdc2do6qfi8858ee939otlgrphuiopf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thirdeye",
+            "certificate_hash": "cc7b798fb09b3786426d88126844b964acebe52c"
+          }
+        },
+        {
+          "client_id": "1049770180152-180ld7fbu27l8akjuddto4oj5r81sdih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAzdt0OlKjXSwPJHZjc4CKHu2q_0q0eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049770180152-180ld7fbu27l8akjuddto4oj5r81sdih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#241333</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="colorLayerBack">#8a56ab</color>
+    <color name="colorBackground">#8a56ab</color>
+    <color name="colorBack">#241333</color>
+    <color name="colorTitle">#362742</color>
+    <color name="colorSubTitle">#c5c9cf</color>
+    <color name="colorHorizontalDivider">#898a56ab</color>
+    <color name="activitesBackground">#00b6e7</color>
+    <color name="blue">#1592e6</color>
+</resources>
